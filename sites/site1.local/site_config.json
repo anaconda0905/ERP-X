@@ -1,0 +1,17 @@
+{
+ "db_name": "1bd3e0294da19198", 
+ "db_password": "5xfZ0aTUAYDGzgvH", 
+ "developer_mode": 1, 
+ "encryption_key": "m9DK-P4F3mLSBPtdhM6I2lLY2FzEE_9nTeoAjkLw5p8=", 
+ "limits": {
+  "space_usage": {
+   "backup_size": 8.0, 
+   "database_size": 69.27, 
+   "files_size": 117.0, 
+   "total": 194.27
+  }
+ }, 
+ "maintenance_mode": 0, 
+ "one_signal_api_key": "OTgyOTlmNzctMjhlMS00MmU5LWI2OGEtNzVmZGRlOTg3NjJm", 
+ "one_signal_app_id": "d76fe5ec-8782-455a-8261-6a73653d7bb3"
+}

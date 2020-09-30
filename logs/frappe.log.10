@@ -1,0 +1,1618 @@
+[ERROR] 2020-09-14 11:53:21,317 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-14 11:53:21.306469-150.107.181.218-dd0
+[ERROR] 2020-09-14 11:56:55,135 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-14 11:56:55.129934-150.107.181.218-ed0
+[ERROR] 2020-09-14 12:24:50,952 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-14 12:24:50.947154-146.196.34.152-244
+[ERROR] 2020-09-16 09:23:26,910 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.doctype.bulk_update.bulk_update.update", 
+ "condition": "select pi_status from tabPRULIA Member where pi_status=\u2018'", 
+ "doctype": "PRULIA Member", 
+ "field": "pi_status", 
+ "limit": "500", 
+ "value": "01-06-2021"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.py", line 26, in update
+    condition, limit), debug=1)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 232, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 176, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'select pi_status from tabPRULIA Member where pi_status=\u2018' limit 0, 500' at line 1")
+[ERROR] 2020-09-16 09:23:26,983 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-16 09:23:26.914276-42.153.49.185-cb5
+[ERROR] 2020-09-16 09:23:47,863 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.doctype.bulk_update.bulk_update.update", 
+ "condition": "select pi_status from tabPRULIA Member where pi_status=\u2018',", 
+ "doctype": "PRULIA Member", 
+ "field": "pi_status", 
+ "limit": "500", 
+ "value": "01-06-2021"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.py", line 26, in update
+    condition, limit), debug=1)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 232, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 176, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'select pi_status from tabPRULIA Member where pi_status=\u2018', limit 0, 500' at line 1")
+[ERROR] 2020-09-16 09:23:47,867 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-16 09:23:47.863615-42.153.49.185-0cb
+[ERROR] 2020-09-16 09:24:16,030 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.doctype.bulk_update.bulk_update.update", 
+ "condition": "select * from tabPRULIA Member where pi_status=\"\"", 
+ "doctype": "PRULIA Member", 
+ "field": "pi_status", 
+ "limit": "500", 
+ "value": "01-06-2021"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.py", line 26, in update
+    condition, limit), debug=1)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 232, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 176, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from tabPRULIA Member where pi_status="" limit 0, 500\' at line 1')
+[ERROR] 2020-09-16 09:24:16,035 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-16 09:24:16.031077-42.153.49.185-02f
+[ERROR] 2020-09-16 09:26:36,863 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.doctype.bulk_update.bulk_update.update", 
+ "condition": "select * from tabPRULIA Member where pi_status<>\"\"", 
+ "doctype": "PRULIA Member", 
+ "field": "pi_status", 
+ "limit": "500", 
+ "value": "01-06-2021"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.py", line 26, in update
+    condition, limit), debug=1)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 232, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 176, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from tabPRULIA Member where pi_status<>"" limit 0, 500\' at line 1')
+[ERROR] 2020-09-16 09:26:36,867 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-16 09:26:36.863593-42.153.49.185-2fa
+[ERROR] 2020-09-16 09:28:24,719 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.doctype.bulk_update.bulk_update.update", 
+ "condition": "select * from tabPRULIA Member where pi_status!=\"\"", 
+ "doctype": "PRULIA Member", 
+ "field": "pi_status", 
+ "limit": "500", 
+ "value": "01-06-2021"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.py", line 26, in update
+    condition, limit), debug=1)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 232, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 176, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from tabPRULIA Member where pi_status!="" limit 0, 500\' at line 1')
+[ERROR] 2020-09-16 09:28:24,725 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-16 09:28:24.720297-42.153.49.185-a6d
+[ERROR] 2020-09-16 09:29:02,152 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.doctype.bulk_update.bulk_update.update", 
+ "condition": "select * from `tabPRULIA Member` where pi_status!=\"\"", 
+ "doctype": "PRULIA Member", 
+ "field": "pi_status", 
+ "limit": "500", 
+ "value": "01-06-2021"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.py", line 26, in update
+    condition, limit), debug=1)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 232, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 176, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u'You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near \'select * from `tabPRULIA Member` where pi_status!="" limit 0, 500\' at line 1')
+[ERROR] 2020-09-16 09:29:02,158 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-16 09:29:02.153655-42.153.49.185-a18
+[ERROR] 2020-09-16 09:29:47,324 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.doctype.bulk_update.bulk_update.update", 
+ "condition": "select * from `tabPRULIA Member` where pi_status != None", 
+ "doctype": "PRULIA Member", 
+ "field": "pi_status", 
+ "limit": "500", 
+ "value": "01-06-2021"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.py", line 26, in update
+    condition, limit), debug=1)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 232, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 176, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'select * from `tabPRULIA Member` where pi_status != None limit 0, 500' at line 1")
+[ERROR] 2020-09-16 09:29:47,329 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-16 09:29:47.325222-42.153.49.185-3a6
+[ERROR] 2020-09-16 09:32:03,911 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.doctype.bulk_update.bulk_update.update", 
+ "condition": "pi_status != None", 
+ "doctype": "PRULIA Member", 
+ "field": "pi_status", 
+ "limit": "500", 
+ "value": "01-06-2021"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.py", line 26, in update
+    condition, limit), debug=1)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 232, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 176, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1054, u"Unknown column 'None' in 'where clause'")
+[ERROR] 2020-09-16 09:32:03,915 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-16 09:32:03.911897-42.153.49.185-a15
+[ERROR] 2020-09-16 09:32:16,830 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.doctype.bulk_update.bulk_update.update", 
+ "condition": "pi_status = None", 
+ "doctype": "PRULIA Member", 
+ "field": "pi_status", 
+ "limit": "500", 
+ "value": "01-06-2021"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.py", line 26, in update
+    condition, limit), debug=1)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 232, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 176, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1054, u"Unknown column 'None' in 'where clause'")
+[ERROR] 2020-09-16 09:32:16,834 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-16 09:32:16.830507-42.153.49.185-041
+[ERROR] 2020-09-16 09:35:22,401 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.doctype.bulk_update.bulk_update.update", 
+ "condition": "pi_status = ``", 
+ "doctype": "PRULIA Member", 
+ "field": "pi_status", 
+ "limit": "500", 
+ "value": "01-06-2021"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/doctype/bulk_update/bulk_update.py", line 26, in update
+    condition, limit), debug=1)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 232, in sql_list
+    return [r[0] for r in self.sql(query, values, debug=debug)]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 176, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1054, u"Unknown column '' in 'where clause'")
+[ERROR] 2020-09-16 09:35:22,405 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-16 09:35:22.402175-42.153.49.185-e36
+[ERROR] 2020-09-17 15:11:36,398 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "GoalAmount": "3221", 
+ "MedicalCon": "req.body.MedicalCon", 
+ "PatientsAge": "44", 
+ "PatientsGender": "male", 
+ "PatientsName": "req.body.PatientsName", 
+ "Picture": "req.body.Picture", 
+ "Story": "req.body.Story", 
+ "VideoAppeal": "req.body.VideoAppeal", 
+ "data": "{ \"Picture\": \"req.body.Picture\",\r\n     \"VideoAppeal\": \"req.body.VideoAppeal\",\r\n     \"PatientsAge\": \"44\",\r\n     \"GoalAmount\": \"3221\",\r\n     \"PatientsName\": \"req.body.PatientsName\",\r\n     \"PatientsGender\": \"male\",\r\n     \"MedicalCon\": \"req.body.MedicalCon\",\r\n     \"Story\": \"req.body.Story\"\r\n     }"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 37, in handle
+    validate_oauth()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 145, in validate_oauth
+    required_scopes = frappe.db.get_value("OAuth Bearer Token", token, "scopes").split(get_url_delimiter())
+AttributeError: 'NoneType' object has no attribute 'split'
+[ERROR] 2020-09-17 15:11:36,462 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-17 15:11:36.400896-146.196.32.116-540
+[ERROR] 2020-09-17 15:14:08,723 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "GoalAmount": "3221", 
+ "MedicalCon": "req.body.MedicalCon", 
+ "PatientsAge": "44", 
+ "PatientsGender": "male", 
+ "PatientsName": "req.body.PatientsName", 
+ "Picture": "req.body.Picture", 
+ "Story": "req.body.Story", 
+ "VideoAppeal": "req.body.VideoAppeal", 
+ "data": "{ \"Picture\": \"req.body.Picture\",\r\n     \"VideoAppeal\": \"req.body.VideoAppeal\",\r\n     \"PatientsAge\": \"44\",\r\n     \"GoalAmount\": \"3221\",\r\n     \"PatientsName\": \"req.body.PatientsName\",\r\n     \"PatientsGender\": \"male\",\r\n     \"MedicalCon\": \"req.body.MedicalCon\",\r\n     \"Story\": \"req.body.Story\"\r\n     }"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 37, in handle
+    validate_oauth()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 145, in validate_oauth
+    required_scopes = frappe.db.get_value("OAuth Bearer Token", token, "scopes").split(get_url_delimiter())
+AttributeError: 'NoneType' object has no attribute 'split'
+[ERROR] 2020-09-17 15:14:08,725 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-17 15:14:08.723669-146.196.32.116-f9c
+[ERROR] 2020-09-17 15:15:18,105 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "GoalAmount": "3221", 
+ "MedicalCon": "req.body.MedicalCon", 
+ "PatientsAge": "44", 
+ "PatientsGender": "male", 
+ "PatientsName": "req.body.PatientsName", 
+ "Picture": "req.body.Picture", 
+ "Story": "req.body.Story", 
+ "VideoAppeal": "req.body.VideoAppeal", 
+ "data": "{ \"Picture\": \"req.body.Picture\",\r\n     \"VideoAppeal\": \"req.body.VideoAppeal\",\r\n     \"PatientsAge\": \"44\",\r\n     \"GoalAmount\": \"3221\",\r\n     \"PatientsName\": \"req.body.PatientsName\",\r\n     \"PatientsGender\": \"male\",\r\n     \"MedicalCon\": \"req.body.MedicalCon\",\r\n     \"Story\": \"req.body.Story\"\r\n     }"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 37, in handle
+    validate_oauth()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 145, in validate_oauth
+    required_scopes = frappe.db.get_value("OAuth Bearer Token", token, "scopes").split(get_url_delimiter())
+AttributeError: 'NoneType' object has no attribute 'split'
+[ERROR] 2020-09-17 15:15:18,107 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-17 15:15:18.105718-146.196.32.116-3ab
+[ERROR] 2020-09-22 16:20:44,597 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\"telco_name\"=\"PTEL001\"]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting ',' delimiter: line 1 column 14 (char 13)
+[ERROR] 2020-09-22 16:20:44,599 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-22 16:20:44.597649-146.196.32.108-760
+[ERROR] 2020-09-22 16:22:40,571 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "filters": "[[\"telco_name\"=\"PTEL001\"]]", 
+ "limit_page_length": 20
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 111, in handle
+    doctype, **frappe.local.form_dict)})
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/client.py", line 31, in get_list
+    limit_start=limit_start, limit_page_length=limit_page_length, ignore_permissions=False)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 1150, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 88, in execute
+    result = self.build_and_run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 100, in build_and_run
+    args = self.prepare_args()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 115, in prepare_args
+    self.parse_args()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 173, in parse_args
+    filters = json.loads(filters)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting ',' delimiter: line 1 column 15 (char 14)
+[ERROR] 2020-09-22 16:22:40,574 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-22 16:22:40.571399-146.196.32.108-a6c
+[ERROR] 2020-09-22 16:24:09,903 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "filters": "[[\"telco_name\", \"=\",\"PTEL001\"]],fields=[\"*\"]", 
+ "limit_page_length": 20
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 111, in handle
+    doctype, **frappe.local.form_dict)})
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/client.py", line 31, in get_list
+    limit_start=limit_start, limit_page_length=limit_page_length, ignore_permissions=False)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 1150, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 88, in execute
+    result = self.build_and_run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 100, in build_and_run
+    args = self.prepare_args()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 115, in prepare_args
+    self.parse_args()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 173, in parse_args
+    filters = json.loads(filters)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 369, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 32 - line 1 column 45 (char 31 - 44)
+[ERROR] 2020-09-22 16:24:09,906 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-22 16:24:09.903434-146.196.32.108-cfc
+[ERROR] 2020-09-22 16:24:17,616 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "filters": "[[\"telco_name\", \"=\",\"PTEL001\"]] fields=[\"*\"]", 
+ "limit_page_length": 20
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 111, in handle
+    doctype, **frappe.local.form_dict)})
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/client.py", line 31, in get_list
+    limit_start=limit_start, limit_page_length=limit_page_length, ignore_permissions=False)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 1150, in get_list
+    return frappe.model.db_query.DatabaseQuery(doctype).execute(None, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 88, in execute
+    result = self.build_and_run()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 100, in build_and_run
+    args = self.prepare_args()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 115, in prepare_args
+    self.parse_args()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/db_query.py", line 173, in parse_args
+    filters = json.loads(filters)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 369, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 33 - line 1 column 45 (char 32 - 44)
+[ERROR] 2020-09-22 16:24:17,619 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-22 16:24:17.616687-146.196.32.108-cf7
+[ERROR] 2020-09-23 12:37:27,302 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\u201ctelco_name\u201d,\u201d=\u201d,\u201d PTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 12:37:27,303 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 51: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 51: ordinal not in range(128)
+[ERROR] 2020-09-23 12:43:31,116 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\"*\"] -> get anything u need", 
+ "filters": "[[\"telco_name\", \"=\",\"PTEL001\"]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 369, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 7 - line 1 column 29 (char 6 - 28)
+[ERROR] 2020-09-23 12:43:31,119 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-23 12:43:31.116814-146.196.32.184-10b
+[ERROR] 2020-09-23 14:19:13,305 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\u201ctelco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:19:13,307 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:19:13,478 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\u201ctelco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:19:13,479 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:19:17,573 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\u201ctelco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:19:17,574 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:19:17,665 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\u201ctelco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:19:17,667 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:19:32,425 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\u201ctelco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:19:32,426 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:23:57,340 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:23:57,342 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:23:57,536 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:23:57,537 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:24:03,455 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:24:03,457 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:24:03,561 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:24:03,562 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:24:28,996 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:24:28,997 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:24:29,135 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:24:29,161 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:24:33,753 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:24:33,754 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:24:33,829 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:24:33,830 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:25:16,123 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:25:16,124 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:25:16,284 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:25:16,285 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:25:22,359 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:25:22,360 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:25:22,769 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:25:22,770 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:25:31,637 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:25:31,638 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:25:31,827 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:25:31,828 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:25:40,812 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:25:40,813 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:25:40,892 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:25:40,893 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:26:04,492 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:26:04,493 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:26:04,583 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:26:04,584 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-23 14:26:19,619 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\u201c*\u201d]", 
+ "filters": "[[\"telco_name\u201d,\u201d=\u201d,\u201dPTEL001\u201d]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 384, in raw_decode
+    raise ValueError("No JSON object could be decoded")
+ValueError: No JSON object could be decoded
+[ERROR] 2020-09-23 14:26:19,620 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+Could not take error snapshot: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 36, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in get_snapshot
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+  File "/usr/lib/python2.7/inspect.py", line 888, in formatargvalues
+    specs.append(strseq(args[i], convert, join))
+  File "/usr/lib/python2.7/inspect.py", line 843, in strseq
+    return convert(object)
+  File "/usr/lib/python2.7/inspect.py", line 885, in convert
+    return formatarg(name) + formatvalue(locals[name])
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py", line 81, in <lambda>
+    call = inspect.formatargvalues(args, varargs, varkw, locals, formatvalue=lambda value: '={}'.format(pydoc.text.repr(value)))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe2 in position 52: ordinal not in range(128)
+[ERROR] 2020-09-26 15:07:32,057 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "data": "", 
+ "fields": "[\"*\"]/PTEL-PLN0002", 
+ "filters": "[[\"telco_name\",\"=\",\"PTEL001\"]]"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 67, in application
+    response = frappe.api.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/api.py", line 107, in handle
+    frappe.local.form_dict['fields'] = json.loads(frappe.local.form_dict['fields'])
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 369, in decode
+    raise ValueError(errmsg("Extra data", s, end, len(s)))
+ValueError: Extra data: line 1 column 6 - line 1 column 19 (char 5 - 18)
+[ERROR] 2020-09-26 15:07:32,113 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-26 15:07:32.058599-150.107.182.17-e30
+[ERROR] 2020-09-26 16:48:10,591 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 59, in application
+    init_request(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 119, in init_request
+    make_form_dict(request)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 127, in make_form_dict
+    args = json.loads(request.data)
+  File "/usr/lib/python2.7/json/__init__.py", line 338, in loads
+    return _default_decoder.decode(s)
+  File "/usr/lib/python2.7/json/decoder.py", line 366, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/usr/lib/python2.7/json/decoder.py", line 382, in raw_decode
+    obj, end = self.scan_once(s, idx)
+ValueError: Expecting property name: line 37 column 1 (char 1427)
+[ERROR] 2020-09-26 16:48:10,593 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-26 16:48:10.591314-127.0.0.1-dd1
+[ERROR] 2020-09-26 16:48:18,922 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-26 16:48:18.920886-127.0.0.1-092
+[ERROR] 2020-09-26 16:48:37,423 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-26 16:48:37.421444-127.0.0.1-4c1
+[ERROR] 2020-09-26 16:48:38,535 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-26 16:48:38.533197-127.0.0.1-7bf

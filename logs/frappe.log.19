@@ -1,0 +1,934 @@
+[DEBUG] 2020-09-12 11:13:30,164 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:14:30,230 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:15:30,295 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:16:30,403 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:17:30,485 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:18:30,566 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:19:30,649 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:20:30,759 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:21:30,836 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:22:30,890 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:23:30,969 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:24:31,080 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:25:31,154 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:26:31,236 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:27:31,285 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:28:31,386 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:29:31,463 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:30:31,543 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:31:31,625 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:32:31,725 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:33:31,810 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:34:31,892 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:35:31,951 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:36:32,044 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:37:32,126 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:38:32,203 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:39:32,283 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:40:32,390 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:41:32,572 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:42:32,637 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:43:32,715 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:44:32,823 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:45:32,903 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:46:32,983 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:47:33,062 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:48:33,167 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:49:33,207 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:50:33,288 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:51:33,361 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:52:33,475 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:53:33,556 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:54:33,638 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:55:33,719 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:56:33,800 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:57:33,881 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:58:33,959 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 11:59:34,042 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:00:34,171 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:01:34,253 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:02:34,332 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:03:34,400 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:04:34,484 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:05:34,546 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:06:34,629 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:07:34,707 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:08:34,819 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:09:34,900 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:10:35,203 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:11:35,287 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:12:35,390 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:13:35,470 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:14:35,528 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:15:35,611 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:16:35,681 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:17:35,763 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:18:35,812 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:19:35,894 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:20:36,003 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:21:36,081 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:22:36,140 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:23:36,223 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:24:36,331 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:25:36,409 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:26:36,490 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:27:36,569 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:28:36,667 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:29:36,751 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:30:37,317 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:31:37,384 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:32:37,490 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:33:37,574 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:34:37,656 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:35:37,719 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:36:37,801 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:37:37,885 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:38:37,961 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:39:38,014 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:40:38,115 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:41:38,193 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:42:38,274 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:43:38,348 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:44:38,451 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:45:38,533 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:46:38,607 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:47:38,690 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:48:38,794 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:49:38,863 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:50:38,925 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:51:39,004 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:52:39,111 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:53:39,192 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:54:39,259 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:55:39,341 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:56:39,427 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:57:39,501 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:58:39,580 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 12:59:39,661 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:00:39,787 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:01:39,860 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:02:39,942 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:03:39,983 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:04:40,090 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:05:40,171 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:06:40,251 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:07:40,332 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:08:40,446 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:09:40,523 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:10:40,608 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:11:40,687 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:12:40,798 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:13:40,881 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:14:40,950 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:15:41,032 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:16:41,136 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:17:41,218 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:18:41,300 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:19:41,384 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:20:41,484 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:21:41,569 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:22:41,645 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:23:41,686 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:24:41,796 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:25:41,878 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:26:41,960 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:27:42,041 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:28:42,156 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:29:42,228 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:30:42,286 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:31:42,367 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:32:42,480 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:33:42,561 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:34:42,735 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:35:42,909 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:36:43,012 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:37:43,092 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:38:43,173 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:39:43,256 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:40:43,354 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:41:43,429 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:42:43,468 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:43:44,456 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:44:44,549 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:45:44,633 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:46:44,718 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:47:44,799 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:48:44,906 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:49:44,986 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:50:46,999 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:51:47,054 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:52:47,170 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:53:47,251 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:54:47,332 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:55:47,413 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2020-09-12 13:56:26,299 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "action": "Save", 
+ "cmd": "frappe.desk.form.save.savedocs", 
+ "doc": "{\"timeline_field\":null,\"image_view\":0,\"allow_import\":0,\"app\":null,\"creation\":\"2020-09-12 21:55:59.912642\",\"search_fields\":null,\"track_changes\":1,\"modified\":\"2020-09-12 21:55:59.912642\",\"sort_order\":\"DESC\",\"print_outline\":null,\"owner\":\"Administrator\",\"editable_grid\":1,\"in_create\":0,\"read_only\":0,\"is_published_field\":null,\"document_type\":\"\",\"hide_heading\":0,\"modified_by\":\"Administrator\",\"tag_fields\":null,\"allow_rename\":0,\"_comments\":null,\"smallicon\":null,\"_last_update\":null,\"custom\":0,\"max_attachments\":0,\"menu_index\":null,\"docstatus\":0,\"is_submittable\":0,\"sort_field\":\"modified\",\"image_field\":null,\"_liked_by\":null,\"allow_copy\":0,\"engine\":\"InnoDB\",\"allow_guest_to_view\":0,\"istable\":0,\"description\":null,\"parent\":null,\"_assign\":null,\"subject\":null,\"has_web_view\":0,\"show_name_in_global_search\":0,\"beta\":0,\"read_only_onload\":0,\"module\":\"PRULIA Telco\",\"doctype\":\"DocType\",\"autoname\":null,\"issingle\":0,\"_user_tags\":null,\"icon\":null,\"name\":\"PRULIA Telco Package Plan\",\"idx\":0,\"default_print_format\":null,\"hide_toolbar\":0,\"colour\":null,\"title_field\":null,\"restrict_to_domain\":null,\"track_seen\":0,\"name_case\":\"\",\"parenttype\":null,\"fields\":[{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-09-12 21:55:59.912642\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Telco Name\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Package Plan\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"30b02baf70\",\"idx\":1,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 21:55:59.912642\",\"parenttype\":\"DocType\",\"fieldname\":\"telco_name\",\"fieldtype\":\"Table\",\"options\":\"PRULIA Telco\",\"report_hide\":0,\"parentfield\":\"fields\"}],\"permissions\":[{\"creation\":\"2020-09-12 21:55:59.912642\",\"share\":1,\"doctype\":\"DocPerm\",\"owner\":\"Administrator\",\"export\":1,\"cancel\":0,\"set_user_permissions\":0,\"modified_by\":\"Administrator\",\"user_permission_doctypes\":null,\"create\":1,\"submit\":0,\"write\":1,\"role\":\"System Manager\",\"print\":1,\"docstatus\":0,\"permlevel\":0,\"match\":null,\"parent\":\"PRULIA Telco Package Plan\",\"read\":1,\"import\":0,\"report\":1,\"apply_user_permissions\":0,\"name\":\"b2dc155ed7\",\"idx\":1,\"amend\":0,\"modified\":\"2020-09-12 21:55:59.912642\",\"email\":1,\"parenttype\":\"DocType\",\"parentfield\":\"permissions\",\"if_owner\":0,\"delete\":1}],\"quick_entry\":1,\"parent_node\":null,\"route\":null,\"parentfield\":null,\"__last_sync_on\":\"2020-09-12T13:56:23.335Z\",\"__unsaved\":1,\"server_code_compiled\":null}"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
+    doc.save()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 256, in save
+    return self._save(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 307, in _save
+    self.run_post_save_methods()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 887, in run_post_save_methods
+    self.run_method("on_update")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 755, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1024, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1007, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 749, in <lambda>
+    fn = lambda self, *args, **kwargs: getattr(self, method)(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/doctype/doctype.py", line 208, in on_update
+    self.delete_duplicate_custom_fields()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/doctype/doctype.py", line 249, in delete_duplicate_custom_fields
+    '''.format('%s', ', '.join(['%s'] * len(fields))), tuple([self.name] + fields), as_dict=True)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 166, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 4")
+[ERROR] 2020-09-12 13:56:26,378 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-12 13:56:26.301282-115.134.210.85-64a
+[ERROR] 2020-09-12 13:56:31,976 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "action": "Save", 
+ "cmd": "frappe.desk.form.save.savedocs", 
+ "doc": "{\"timeline_field\":null,\"image_view\":0,\"allow_import\":0,\"app\":null,\"creation\":\"2020-09-12 21:55:59.912642\",\"search_fields\":null,\"track_changes\":1,\"modified\":\"2020-09-12 21:55:59.912642\",\"sort_order\":\"DESC\",\"print_outline\":null,\"owner\":\"Administrator\",\"editable_grid\":1,\"in_create\":0,\"read_only\":0,\"is_published_field\":null,\"document_type\":\"\",\"hide_heading\":0,\"modified_by\":\"Administrator\",\"tag_fields\":null,\"allow_rename\":0,\"_comments\":null,\"smallicon\":null,\"_last_update\":null,\"custom\":0,\"max_attachments\":0,\"menu_index\":null,\"docstatus\":0,\"is_submittable\":0,\"sort_field\":\"modified\",\"image_field\":null,\"_liked_by\":null,\"allow_copy\":0,\"engine\":\"InnoDB\",\"allow_guest_to_view\":0,\"istable\":0,\"description\":null,\"parent\":null,\"_assign\":null,\"subject\":null,\"has_web_view\":0,\"show_name_in_global_search\":0,\"beta\":0,\"read_only_onload\":0,\"module\":\"PRULIA Telco\",\"doctype\":\"DocType\",\"autoname\":null,\"issingle\":0,\"_user_tags\":null,\"icon\":null,\"name\":\"PRULIA Telco Package Plan\",\"idx\":0,\"default_print_format\":null,\"hide_toolbar\":0,\"colour\":null,\"title_field\":null,\"restrict_to_domain\":null,\"track_seen\":0,\"name_case\":\"\",\"parenttype\":null,\"fields\":[{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-09-12 21:55:59.912642\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Telco Name\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Package Plan\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"30b02baf70\",\"idx\":1,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 21:55:59.912642\",\"parenttype\":\"DocType\",\"fieldname\":\"telco_name\",\"fieldtype\":\"Table\",\"options\":\"PRULIA Telco\",\"report_hide\":0,\"parentfield\":\"fields\"}],\"permissions\":[{\"creation\":\"2020-09-12 21:55:59.912642\",\"share\":1,\"doctype\":\"DocPerm\",\"owner\":\"Administrator\",\"export\":1,\"cancel\":0,\"set_user_permissions\":0,\"modified_by\":\"Administrator\",\"user_permission_doctypes\":null,\"create\":1,\"submit\":0,\"write\":1,\"role\":\"System Manager\",\"print\":1,\"docstatus\":0,\"permlevel\":0,\"match\":null,\"parent\":\"PRULIA Telco Package Plan\",\"read\":1,\"import\":0,\"report\":1,\"apply_user_permissions\":0,\"name\":\"b2dc155ed7\",\"idx\":1,\"amend\":0,\"modified\":\"2020-09-12 21:55:59.912642\",\"email\":1,\"parenttype\":\"DocType\",\"parentfield\":\"permissions\",\"if_owner\":0,\"delete\":1}],\"quick_entry\":1,\"parent_node\":null,\"route\":null,\"parentfield\":null,\"__last_sync_on\":\"2020-09-12T13:56:23.335Z\",\"__unsaved\":1,\"server_code_compiled\":null}"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
+    doc.save()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 256, in save
+    return self._save(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 307, in _save
+    self.run_post_save_methods()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 887, in run_post_save_methods
+    self.run_method("on_update")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 755, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1024, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1007, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 749, in <lambda>
+    fn = lambda self, *args, **kwargs: getattr(self, method)(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/doctype/doctype.py", line 208, in on_update
+    self.delete_duplicate_custom_fields()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/doctype/doctype.py", line 249, in delete_duplicate_custom_fields
+    '''.format('%s', ', '.join(['%s'] * len(fields))), tuple([self.name] + fields), as_dict=True)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 166, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+ProgrammingError: (1064, u"You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 4")
+[ERROR] 2020-09-12 13:56:31,982 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-12 13:56:31.977104-115.134.210.85-e4f
+[DEBUG] 2020-09-12 13:56:47,517 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:57:47,594 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:58:47,625 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 13:59:47,694 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:00:47,818 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:01:48,049 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:02:48,132 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:03:48,204 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:04:48,404 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:05:48,485 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:06:48,566 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:07:48,644 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:08:48,734 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:09:48,812 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:10:48,961 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:11:49,029 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:12:49,143 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:13:49,212 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:14:49,292 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:15:49,373 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:16:49,468 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:17:49,556 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:18:49,638 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:19:49,720 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:20:49,826 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:21:49,892 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:22:49,975 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:23:50,046 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:24:50,139 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:25:50,214 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:26:50,297 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:27:50,376 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:28:50,483 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:29:50,548 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:30:50,613 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:31:50,683 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:32:50,786 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:33:50,865 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:34:50,944 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:35:51,380 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:36:51,470 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:37:51,554 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:38:51,635 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:39:51,715 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:40:51,831 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:41:51,912 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:42:51,977 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:43:52,065 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:44:52,198 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:45:52,277 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:46:52,358 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:47:52,437 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:48:52,535 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:49:52,611 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:50:52,696 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:51:52,773 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:52:52,876 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:53:52,945 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:54:52,981 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:55:53,062 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:56:53,144 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:57:53,211 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:58:53,794 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 14:59:53,875 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 15:00:53,999 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 15:01:54,049 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 15:02:54,116 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 15:03:54,200 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2020-09-12 15:04:30,674 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "action": "Save", 
+ "cmd": "frappe.desk.form.save.savedocs", 
+ "doc": "{\"timeline_field\":null,\"image_view\":0,\"allow_import\":0,\"app\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"search_fields\":null,\"track_changes\":1,\"modified\":\"2020-09-12 23:03:38.141126\",\"sort_order\":\"DESC\",\"print_outline\":null,\"owner\":\"Administrator\",\"editable_grid\":1,\"in_create\":0,\"read_only\":0,\"is_published_field\":null,\"document_type\":\"\",\"hide_heading\":0,\"modified_by\":\"Administrator\",\"tag_fields\":null,\"allow_rename\":0,\"_comments\":null,\"smallicon\":null,\"_last_update\":null,\"custom\":0,\"max_attachments\":0,\"menu_index\":null,\"docstatus\":0,\"is_submittable\":0,\"sort_field\":\"modified\",\"image_field\":null,\"_liked_by\":null,\"allow_copy\":0,\"engine\":\"InnoDB\",\"allow_guest_to_view\":0,\"istable\":0,\"description\":null,\"parent\":null,\"_assign\":null,\"subject\":null,\"has_web_view\":0,\"show_name_in_global_search\":0,\"beta\":0,\"read_only_onload\":0,\"module\":\"PRULIA Telco\",\"doctype\":\"DocType\",\"autoname\":\"PTREG-.########\",\"issingle\":0,\"_user_tags\":null,\"icon\":null,\"name\":\"PRULIA Telco Connect\",\"idx\":0,\"default_print_format\":null,\"hide_toolbar\":0,\"colour\":null,\"title_field\":null,\"restrict_to_domain\":null,\"track_seen\":0,\"name_case\":\"\",\"parenttype\":null,\"fields\":[{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":1,\"reqd\":1,\"ignore_xss_filter\":0,\"in_global_search\":1,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Prudential ID\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":1,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":1,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":1,\"name\":\"192a3ebcb9\",\"idx\":1,\"default\":null,\"in_standard_filter\":1,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"prudential_id\",\"fieldtype\":\"Link\",\"options\":\"PRULIA Member\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":1,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":\"\",\"read_only\":1,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Full Name from PRULIA Member\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"b39af36257\",\"idx\":2,\"default\":\"\",\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"full_name\",\"fieldtype\":\"Data\",\"options\":\"prudential_id.full_name\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Full Name NRIC\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"a724d75c29\",\"idx\":3,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"full_name_nric\",\"fieldtype\":\"Data\",\"options\":\"prudential_id.full_name\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Contact Number\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"9cdcb60282\",\"idx\":4,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"contact_number\",\"fieldtype\":\"Data\",\"options\":\"prudential_id.cell_number\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":1,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":1,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\" Mailing address\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"d3f77024ab\",\"idx\":5,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"mailing_address\",\"fieldtype\":\"Long Text\",\"options\":\"prudential_id.mailing_address\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":1,\"reqd\":1,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Telco ID\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":1,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"e6e286964b\",\"idx\":6,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"telco_id\",\"fieldtype\":\"Link\",\"options\":\"PRULIA Telco\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":1,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Telco Name\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"d7850443be\",\"idx\":7,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"telco_name\",\"fieldtype\":\"Data\",\"options\":\"telco_id.telco_name\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":1,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Company Name\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":1,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"40e93aa8c4\",\"idx\":8,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"company_name\",\"fieldtype\":\"Data\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Country\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"64f1bfcfe2\",\"idx\":9,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"country\",\"fieldtype\":\"Data\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"State\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"91daf832c6\",\"idx\":10,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"state\",\"fieldtype\":\"Data\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Post Code\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"beebd3de2c\",\"idx\":11,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"post_code\",\"fieldtype\":\"Int\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"City\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"b864f3a3ea\",\"idx\":12,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"city\",\"fieldtype\":\"Data\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\" Cell Number\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"375e952dc0\",\"idx\":13,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"cell_number\",\"fieldtype\":\"Data\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":null,\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"637bc3db52\",\"idx\":14,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"section_break_14\",\"fieldtype\":\"Section Break\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"NRIC Color (Front)\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"fa53fa5e3b\",\"idx\":15,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"nric_front\",\"fieldtype\":\"Attach Image\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":null,\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"ab7cb7e579\",\"idx\":16,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"column_break_15\",\"fieldtype\":\"Column Break\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"NRIC Color (Back)\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"76e11c119f\",\"idx\":17,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"nric_back\",\"fieldtype\":\"Attach Image\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":null,\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"70cac7535b\",\"idx\":18,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"column_break_17\",\"fieldtype\":\"Column Break\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Photo\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"89c2c76c1f\",\"idx\":19,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"photo\",\"fieldtype\":\"Attach Image\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Telco Package Plan\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"6a4a15be27\",\"idx\":20,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"section_break_1\",\"fieldtype\":\"Section Break\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Telco Package Plan\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"72a1688bc5\",\"idx\":21,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"telco_package_plan\",\"fieldtype\":\"Link\",\"options\":\"PRULIA Telco Package Plan\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":1,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Telco Package Title\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"5fe369243b\",\"idx\":22,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"package_title\",\"fieldtype\":\"Data\",\"options\":\"telco_package_plan.package_title\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":1,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Package Price\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"eaf1671a8b\",\"idx\":23,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"package_price\",\"fieldtype\":\"Data\",\"options\":\"telco_package_plan.package_price\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":1,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Sub Line\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"dbe755fd9b\",\"idx\":24,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"package_sub_line\",\"fieldtype\":\"Data\",\"options\":\"telco_package_plan.sub_line\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Devices\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"09eddafc4b\",\"idx\":25,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\" section_break_3\",\"fieldtype\":\"Section Break\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Telco Devices\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"c1087903e1\",\"idx\":26,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"telco_devices\",\"fieldtype\":\"Link\",\"options\":\"PRULIA Telco Devices\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Device Content\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"ab2e8e971b\",\"idx\":27,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"device_content\",\"fieldtype\":\"Data\",\"options\":\"telco_devices.device_content\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Device Price\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"226fe84b49\",\"idx\":28,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"device_price\",\"fieldtype\":\"Data\",\"options\":\"telco_devices.device_price\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Sub Line\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"dec6bb01c2\",\"idx\":29,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"section_break_11\",\"fieldtype\":\"Section Break\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Sub Line\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"fd94c41049\",\"idx\":30,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"sub_line\",\"fieldtype\":\"Table\",\"options\":\"PRULIA Telco Sub Line\",\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":\"*Including Sub-line if any\",\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Total Price\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"0823e6d518\",\"idx\":31,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"tot_price_break\",\"fieldtype\":\"Section Break\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Total Price\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"318a564316\",\"idx\":32,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"total_price\",\"fieldtype\":\"Currency\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Registration Information\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"12eda610fb\",\"idx\":33,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"registration_information\",\"fieldtype\":\"Section Break\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Submission Date\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"86f2578189\",\"idx\":34,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"submit_date\",\"fieldtype\":\"Date\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Approval Date\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"d7424365d7\",\"idx\":35,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"approval_date\",\"fieldtype\":\"Date\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Next Renewal Date\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"d5fa17a94c\",\"idx\":36,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"next_renew_date\",\"fieldtype\":\"Date\",\"options\":null,\"report_hide\":0,\"parentfield\":\"fields\"},{\"collapsible\":0,\"print_width\":null,\"no_copy\":0,\"oldfieldtype\":null,\"creation\":\"2020-08-14 15:56:35.238041\",\"doctype\":\"DocField\",\"oldfieldname\":null,\"owner\":\"Administrator\",\"in_list_view\":0,\"reqd\":0,\"ignore_xss_filter\":0,\"in_global_search\":0,\"collapsible_depends_on\":null,\"description\":null,\"read_only\":0,\"print_hide\":0,\"modified_by\":\"Administrator\",\"ignore_user_permissions\":0,\"length\":0,\"label\":\"Registration Status\",\"print_hide_if_no_value\":0,\"width\":null,\"allow_bulk_edit\":0,\"trigger\":null,\"set_only_once\":0,\"depends_on\":null,\"docstatus\":0,\"hidden\":0,\"in_filter\":0,\"permlevel\":0,\"columns\":0,\"bold\":0,\"parent\":\"PRULIA Telco Connect\",\"search_index\":0,\"allow_on_submit\":0,\"precision\":\"\",\"remember_last_selected_value\":0,\"unique\":0,\"name\":\"d744566751\",\"idx\":37,\"default\":null,\"in_standard_filter\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"parenttype\":\"DocType\",\"fieldname\":\"reg_status\",\"fieldtype\":\"Select\",\"options\":\"\\nPending for approval\\nApproved\\nRejected\\nCancel\",\"report_hide\":0,\"parentfield\":\"fields\"}],\"permissions\":[{\"creation\":\"2020-08-14 15:56:35.238041\",\"share\":1,\"doctype\":\"DocPerm\",\"owner\":\"Administrator\",\"export\":1,\"cancel\":0,\"set_user_permissions\":0,\"modified_by\":\"Administrator\",\"user_permission_doctypes\":null,\"create\":1,\"submit\":0,\"write\":1,\"role\":\"System Manager\",\"print\":1,\"docstatus\":0,\"permlevel\":0,\"match\":null,\"parent\":\"PRULIA Telco Connect\",\"read\":1,\"import\":0,\"report\":1,\"apply_user_permissions\":0,\"name\":\"67746d8dfe\",\"idx\":1,\"amend\":0,\"modified\":\"2020-09-12 23:03:38.141126\",\"email\":1,\"parenttype\":\"DocType\",\"parentfield\":\"permissions\",\"if_owner\":0,\"delete\":1}],\"quick_entry\":1,\"parent_node\":null,\"route\":null,\"parentfield\":null,\"__last_sync_on\":\"2020-09-12T15:04:01.560Z\",\"__unsaved\":1,\"server_code_compiled\":null}"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/save.py", line 22, in savedocs
+    doc.save()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 256, in save
+    return self._save(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 307, in _save
+    self.run_post_save_methods()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 887, in run_post_save_methods
+    self.run_method("on_update")
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 755, in run_method
+    out = Document.hook(fn)(self, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1024, in composer
+    return composed(self, method, *args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 1007, in runner
+    add_to_return_value(self, fn(self, *args, **kwargs))
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/model/document.py", line 749, in <lambda>
+    fn = lambda self, *args, **kwargs: getattr(self, method)(*args, **kwargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/doctype/doctype.py", line 214, in on_update
+    self.update_fields_to_fetch()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/core/doctype/doctype/doctype.py", line 136, in update_fields_to_fetch
+    frappe.db.sql(query)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 176, in sql
+    self._cursor.execute(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1054, u"Unknown column 'source.device_price' in 'field list'")
+[ERROR] 2020-09-12 15:04:30,685 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-12 15:04:30.675904-115.134.210.85-a11
+[DEBUG] 2020-09-12 15:04:54,258 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 15:05:54,341 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 15:06:54,425 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2020-09-12 15:07:24,335 | /home/frappe/frappe-bench/apps/frappe/frappe/app.py:
+Site: site1.local
+Form Dict: {
+ "cmd": "frappe.desk.form.utils.validate_link", 
+ "fetch": "device_content, device_price", 
+ "options": "PRULIA Telco Devices", 
+ "value": "PTEL-DEV0007"
+}
+Request Error
+Traceback (most recent call last):
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/app.py", line 62, in application
+    response = frappe.handler.handle()
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 22, in handle
+    data = execute_cmd(cmd)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/handler.py", line 53, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/__init__.py", line 939, in call
+    return fn(*args, **newargs)
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/desk/form/utils.py", line 45, in validate_link
+    % (fetch, frappe.db.escape(options), '%s'), (value,))[0]]
+  File "/home/frappe/frappe-bench/apps/frappe/frappe/database.py", line 166, in sql
+    self._cursor.execute(query, values)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 165, in execute
+    result = self._query(query)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/cursors.py", line 321, in _query
+    conn.query(q)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 860, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1061, in _read_query_result
+    result.read()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1349, in read
+    first_packet = self.connection._read_packet()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 1018, in _read_packet
+    packet.check_error()
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/connections.py", line 384, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/frappe/frappe-bench/env/local/lib/python2.7/site-packages/pymysql/err.py", line 107, in raise_mysql_exception
+    raise errorclass(errno, errval)
+InternalError: (1054, u"Unknown column 'device_price' in 'field list'")
+[ERROR] 2020-09-12 15:07:24,339 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-12 15:07:24.336238-115.134.210.85-8a3
+[DEBUG] 2020-09-12 15:07:54,507 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 15:08:54,628 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 15:09:54,693 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[ERROR] 2020-09-12 15:10:24,510 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/error.py:
+New Exception collected with id: 2020-09-12 15:10:24.506279-115.134.210.85-0ca
+[DEBUG] 2020-09-12 15:10:54,775 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local
+[DEBUG] 2020-09-12 15:11:54,836 | /home/frappe/frappe-bench/apps/frappe/frappe/utils/scheduler.py:
+Site: site1.local
+Queued events for site site1.local

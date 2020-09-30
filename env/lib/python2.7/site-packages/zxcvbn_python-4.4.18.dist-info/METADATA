@@ -1,0 +1,28 @@
+Metadata-Version: 2.0
+Name: zxcvbn-python
+Version: 4.4.18
+Summary: Python implementation of Dropbox's realistic password strength estimator, zxcvbn
+Home-page: https://github.com/dwolfhub/zxcvbn-python
+Author: Daniel Wolf
+Author-email: danielrwolf5@gmail.com
+License: MIT
+Download-URL: https://github.com/dwolfhub/zxcvbn-python/tarball/v4.4.18
+Keywords: zxcvbn,password,security
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Security
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+
+UNKNOWN
+
+

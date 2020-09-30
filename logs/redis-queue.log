@@ -1,0 +1,1932 @@
+[10908] 24 Aug 00:59:58.202 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[10908] 24 Aug 00:59:58.202 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[10934] 24 Aug 00:59:59.303 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[10934] 24 Aug 00:59:59.303 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[11111] 24 Aug 01:00:01.813 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[11111] 24 Aug 01:00:01.836 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[11330] 24 Aug 01:00:05.657 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[11330] 24 Aug 01:00:05.659 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[3185] 24 Aug 11:08:46.904 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[3185] 24 Aug 11:08:46.915 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[3201] 24 Aug 11:08:48.618 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[3201] 24 Aug 11:08:48.623 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[3206] 24 Aug 11:08:50.645 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[3206] 24 Aug 11:08:50.645 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[3209] 24 Aug 11:08:53.666 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[3209] 24 Aug 11:08:53.667 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[3212] 24 Aug 11:08:56.678 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[3212] 24 Aug 11:08:56.679 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[3213] 24 Aug 11:08:57.690 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[3213] 24 Aug 11:08:57.693 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[3217] 24 Aug 11:08:59.718 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[3217] 24 Aug 11:08:59.721 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[3505] 24 Aug 11:09:03.006 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[3505] 24 Aug 11:09:03.006 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17314] 26 Aug 10:21:47.615 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17314] 26 Aug 10:21:47.619 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17330] 26 Aug 10:21:49.244 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17330] 26 Aug 10:21:49.247 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17335] 26 Aug 10:21:51.266 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17335] 26 Aug 10:21:51.273 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17338] 26 Aug 10:21:54.294 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17338] 26 Aug 10:21:54.294 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17341] 26 Aug 10:21:57.304 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17341] 26 Aug 10:21:57.304 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17342] 26 Aug 10:21:58.314 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17342] 26 Aug 10:21:58.318 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17346] 26 Aug 10:22:00.350 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17346] 26 Aug 10:22:00.351 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17350] 26 Aug 10:22:03.388 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17350] 26 Aug 10:22:03.391 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17473] 26 Aug 10:23:47.458 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17473] 26 Aug 10:23:47.459 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17489] 26 Aug 10:23:49.073 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17489] 26 Aug 10:23:49.082 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17492] 26 Aug 10:23:51.096 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17492] 26 Aug 10:23:51.102 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17495] 26 Aug 10:23:54.122 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17495] 26 Aug 10:23:54.126 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17498] 26 Aug 10:23:57.136 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17498] 26 Aug 10:23:57.137 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17499] 26 Aug 10:23:58.149 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17499] 26 Aug 10:23:58.150 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17503] 26 Aug 10:24:00.178 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17503] 26 Aug 10:24:00.181 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[17807] 26 Aug 10:24:03.542 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[17807] 26 Aug 10:24:03.542 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[8599] 27 Aug 12:55:46.036 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[8599] 27 Aug 12:55:46.041 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[8615] 27 Aug 12:55:47.646 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[8615] 27 Aug 12:55:47.650 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[8618] 27 Aug 12:55:49.672 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[8618] 27 Aug 12:55:49.673 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[8621] 27 Aug 12:55:52.690 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[8621] 27 Aug 12:55:52.691 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[8624] 27 Aug 12:55:55.707 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[8624] 27 Aug 12:55:55.707 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[8625] 27 Aug 12:55:56.722 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[8625] 27 Aug 12:55:56.722 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[8629] 27 Aug 12:55:58.757 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[8629] 27 Aug 12:55:58.758 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[8639] 27 Aug 12:56:02.363 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[8639] 27 Aug 12:56:02.364 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[5377] 27 Aug 18:04:51.028 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[5377] 27 Aug 18:04:51.033 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[5397] 27 Aug 18:04:52.049 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[5397] 27 Aug 18:04:52.049 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[5400] 27 Aug 18:04:54.076 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[5400] 27 Aug 18:04:54.076 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[5403] 27 Aug 18:04:57.105 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[5403] 27 Aug 18:04:57.105 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[5406] 27 Aug 18:05:01.130 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[5406] 27 Aug 18:05:01.131 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[5407] 27 Aug 18:05:02.142 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[5407] 27 Aug 18:05:02.146 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[5411] 27 Aug 18:05:04.170 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[5411] 27 Aug 18:05:04.174 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[5415] 27 Aug 18:05:07.211 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+[5415] 27 Aug 18:05:07.211 # Creating Server TCP listening socket 127.0.0.1:11000: bind: Address already in use
+[1067] 31 Aug 07:30:03.173 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1067
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1067] 31 Aug 07:30:03.174 # Server started, Redis version 2.8.17
+[1067] 31 Aug 07:30:03.174 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1067] 31 Aug 07:30:03.177 * The server is now ready to accept connections on port 11000
+[1097] 10 Sep 14:10:46.658 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1097
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1097] 10 Sep 14:10:46.668 # Server started, Redis version 2.8.17
+[1097] 10 Sep 14:10:46.668 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1097] 10 Sep 14:10:46.670 * The server is now ready to accept connections on port 11000
+[1097 | signal handler] (1600008657) Received SIGTERM scheduling shutdown...
+[1097] 13 Sep 14:50:57.760 # User requested shutdown...
+[1097] 13 Sep 14:50:57.760 # Redis is now ready to exit, bye bye...
+[1092] 13 Sep 14:51:11.512 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1092
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1092] 13 Sep 14:51:11.513 # Server started, Redis version 2.8.17
+[1092] 13 Sep 14:51:11.513 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1092] 13 Sep 14:51:11.525 * The server is now ready to accept connections on port 11000
+[1092 | signal handler] (1600086780) Received SIGTERM scheduling shutdown...
+[1092] 14 Sep 12:33:00.696 # User requested shutdown...
+[1092] 14 Sep 12:33:00.696 # Redis is now ready to exit, bye bye...
+[1092] 14 Sep 12:33:16.564 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1092
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1092] 14 Sep 12:33:16.564 # Server started, Redis version 2.8.17
+[1092] 14 Sep 12:33:16.564 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1092] 14 Sep 12:33:16.569 * The server is now ready to accept connections on port 11000
+[1092 | signal handler] (1600273974) Received SIGTERM scheduling shutdown...
+[1092] 16 Sep 16:32:54.365 # User requested shutdown...
+[1092] 16 Sep 16:32:54.365 # Redis is now ready to exit, bye bye...
+[1086] 16 Sep 16:33:23.673 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1086
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1086] 16 Sep 16:33:23.674 # Server started, Redis version 2.8.17
+[1086] 16 Sep 16:33:23.674 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1086] 16 Sep 16:33:23.683 * The server is now ready to accept connections on port 11000
+[1086 | signal handler] (1600354627) Received SIGTERM scheduling shutdown...
+[1086] 17 Sep 14:57:07.443 # User requested shutdown...
+[1086] 17 Sep 14:57:07.443 # Redis is now ready to exit, bye bye...
+[1081] 17 Sep 14:57:22.583 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1081
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1081] 17 Sep 14:57:22.584 # Server started, Redis version 2.8.17
+[1081] 17 Sep 14:57:22.584 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1081] 17 Sep 14:57:22.584 * The server is now ready to accept connections on port 11000
+[1081 | signal handler] (1600354855) Received SIGTERM scheduling shutdown...
+[1081] 17 Sep 15:00:55.931 # User requested shutdown...
+[1081] 17 Sep 15:00:55.931 # Redis is now ready to exit, bye bye...
+[1093] 17 Sep 15:01:12.424 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1093
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1093] 17 Sep 15:01:12.424 # Server started, Redis version 2.8.17
+[1093] 17 Sep 15:01:12.424 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1093] 17 Sep 15:01:12.432 * The server is now ready to accept connections on port 11000
+[1093 | signal handler] (1600960595) Received SIGTERM scheduling shutdown...
+[1093] 24 Sep 15:16:35.746 # User requested shutdown...
+[1093] 24 Sep 15:16:35.746 # Redis is now ready to exit, bye bye...
+[1088] 24 Sep 15:17:17.838 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1088
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1088] 24 Sep 15:17:17.854 # Server started, Redis version 2.8.17
+[1088] 24 Sep 15:17:17.854 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1088] 24 Sep 15:17:17.859 * The server is now ready to accept connections on port 11000
+[1088 | signal handler] (1601042345) Received SIGTERM scheduling shutdown...
+[1088] 25 Sep 13:59:06.086 # User requested shutdown...
+[1088] 25 Sep 13:59:06.086 # Redis is now ready to exit, bye bye...
+[1095] 25 Sep 13:59:38.615 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1095
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1095] 25 Sep 13:59:38.615 # Server started, Redis version 2.8.17
+[1095] 25 Sep 13:59:38.615 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1095] 25 Sep 13:59:38.619 * The server is now ready to accept connections on port 11000
+[1095 | signal handler] (1601171796) Received SIGTERM scheduling shutdown...
+[1095] 27 Sep 01:56:36.288 # User requested shutdown...
+[1095] 27 Sep 01:56:36.288 # Redis is now ready to exit, bye bye...
+[8275] 27 Sep 01:56:37.659 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 8275
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[8275] 27 Sep 01:56:37.660 # Server started, Redis version 2.8.17
+[8275] 27 Sep 01:56:37.660 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[8275] 27 Sep 01:56:37.660 * The server is now ready to accept connections on port 11000
+[8275 | signal handler] (1601172699) Received SIGTERM scheduling shutdown...
+[8275] 27 Sep 02:11:39.970 # User requested shutdown...
+[8275] 27 Sep 02:11:39.970 # Redis is now ready to exit, bye bye...
+[1122] 27 Sep 02:11:55.397 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1122
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1122] 27 Sep 02:11:55.398 # Server started, Redis version 2.8.17
+[1122] 27 Sep 02:11:55.398 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1122] 27 Sep 02:11:55.400 * The server is now ready to accept connections on port 11000
+[1122 | signal handler] (1601173765) Received SIGTERM scheduling shutdown...
+[1122] 27 Sep 02:29:25.294 # User requested shutdown...
+[1122] 27 Sep 02:29:25.294 # Redis is now ready to exit, bye bye...
+[1092] 27 Sep 02:29:39.429 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1092
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1092] 27 Sep 02:29:39.430 # Server started, Redis version 2.8.17
+[1092] 27 Sep 02:29:39.430 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1092] 27 Sep 02:29:39.444 * The server is now ready to accept connections on port 11000
+[1092 | signal handler] (1601173886) Received SIGTERM scheduling shutdown...
+[1092] 27 Sep 02:31:26.939 # User requested shutdown...
+[1092] 27 Sep 02:31:26.939 # Redis is now ready to exit, bye bye...
+[1058] 27 Sep 02:31:43.387 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1058
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1058] 27 Sep 02:31:43.387 # Server started, Redis version 2.8.17
+[1058] 27 Sep 02:31:43.387 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1058] 27 Sep 02:31:43.398 * The server is now ready to accept connections on port 11000
+[1058 | signal handler] (1601173954) Received SIGTERM scheduling shutdown...
+[1058] 27 Sep 02:32:34.285 # User requested shutdown...
+[1058] 27 Sep 02:32:34.285 # Redis is now ready to exit, bye bye...
+[1079] 27 Sep 02:32:49.378 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1079
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1079] 27 Sep 02:32:49.380 # Server started, Redis version 2.8.17
+[1079] 27 Sep 02:32:49.380 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1079] 27 Sep 02:32:49.384 * The server is now ready to accept connections on port 11000
+[1079 | signal handler] (1601174101) Received SIGTERM scheduling shutdown...
+[1079] 27 Sep 02:35:01.331 # User requested shutdown...
+[1079] 27 Sep 02:35:01.331 # Redis is now ready to exit, bye bye...
+[1093] 27 Sep 02:35:15.545 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1093
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1093] 27 Sep 02:35:15.546 # Server started, Redis version 2.8.17
+[1093] 27 Sep 02:35:15.546 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1093] 27 Sep 02:35:15.553 * The server is now ready to accept connections on port 11000
+[1093 | signal handler] (1601174234) Received SIGTERM scheduling shutdown...
+[1093] 27 Sep 02:37:14.736 # User requested shutdown...
+[1093] 27 Sep 02:37:14.736 # Redis is now ready to exit, bye bye...
+[1094] 27 Sep 02:37:30.442 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1094
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1094] 27 Sep 02:37:30.443 # Server started, Redis version 2.8.17
+[1094] 27 Sep 02:37:30.443 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1094] 27 Sep 02:37:30.459 * The server is now ready to accept connections on port 11000
+[1094 | signal handler] (1601174363) Received SIGTERM scheduling shutdown...
+[1094] 27 Sep 02:39:23.118 # User requested shutdown...
+[1094] 27 Sep 02:39:23.118 # Redis is now ready to exit, bye bye...
+[1063] 27 Sep 02:39:37.297 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1063
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1063] 27 Sep 02:39:37.297 # Server started, Redis version 2.8.17
+[1063] 27 Sep 02:39:37.297 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1063] 27 Sep 02:39:37.307 * The server is now ready to accept connections on port 11000
+[1063 | signal handler] (1601292648) Received SIGTERM scheduling shutdown...
+[1063] 28 Sep 11:30:48.633 # User requested shutdown...
+[1063] 28 Sep 11:30:48.633 # Redis is now ready to exit, bye bye...
+[1070] 28 Sep 11:31:03.881 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1070
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1070] 28 Sep 11:31:03.882 # Server started, Redis version 2.8.17
+[1070] 28 Sep 11:31:03.882 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1070] 28 Sep 11:31:03.893 * The server is now ready to accept connections on port 11000
+[1070 | signal handler] (1601292944) Received SIGTERM scheduling shutdown...
+[1070] 28 Sep 11:35:44.435 # User requested shutdown...
+[1070] 28 Sep 11:35:44.435 # Redis is now ready to exit, bye bye...
+[1093] 28 Sep 11:35:58.482 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1093
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1093] 28 Sep 11:35:58.482 # Server started, Redis version 2.8.17
+[1093] 28 Sep 11:35:58.482 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1093] 28 Sep 11:35:58.489 * The server is now ready to accept connections on port 11000
+[1093 | signal handler] (1601293008) Received SIGTERM scheduling shutdown...
+[1093] 28 Sep 11:36:48.620 # User requested shutdown...
+[1093] 28 Sep 11:36:48.620 # Redis is now ready to exit, bye bye...
+[1865] 28 Sep 11:36:49.950 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1865
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1865] 28 Sep 11:36:49.984 # Server started, Redis version 2.8.17
+[1865] 28 Sep 11:36:49.984 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1865] 28 Sep 11:36:49.984 * The server is now ready to accept connections on port 11000
+[1865 | signal handler] (1601293242) Received SIGTERM scheduling shutdown...
+[1865] 28 Sep 11:40:42.437 # User requested shutdown...
+[1865] 28 Sep 11:40:42.437 # Redis is now ready to exit, bye bye...
+[1081] 28 Sep 11:40:58.569 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1081
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1081] 28 Sep 11:40:58.570 # Server started, Redis version 2.8.17
+[1081] 28 Sep 11:40:58.570 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1081] 28 Sep 11:40:58.572 * The server is now ready to accept connections on port 11000
+[1081 | signal handler] (1601293326) Received SIGTERM scheduling shutdown...
+[1081] 28 Sep 11:42:07.001 # User requested shutdown...
+[1081] 28 Sep 11:42:07.001 # Redis is now ready to exit, bye bye...
+[1095] 28 Sep 11:42:20.430 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1095
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1095] 28 Sep 11:42:20.431 # Server started, Redis version 2.8.17
+[1095] 28 Sep 11:42:20.431 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1095] 28 Sep 11:42:20.444 * The server is now ready to accept connections on port 11000
+[1095 | signal handler] (1601293393) Received SIGTERM scheduling shutdown...
+[1095] 28 Sep 11:43:13.185 # User requested shutdown...
+[1095] 28 Sep 11:43:13.284 # Redis is now ready to exit, bye bye...
+[1098] 28 Sep 11:43:27.433 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1098
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1098] 28 Sep 11:43:27.434 # Server started, Redis version 2.8.17
+[1098] 28 Sep 11:43:27.434 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1098] 28 Sep 11:43:27.439 * The server is now ready to accept connections on port 11000
+[1098 | signal handler] (1601293529) Received SIGTERM scheduling shutdown...
+[1098] 28 Sep 11:45:29.679 # User requested shutdown...
+[1098] 28 Sep 11:45:29.679 # Redis is now ready to exit, bye bye...
+[1080] 28 Sep 11:45:45.166 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1080
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1080] 28 Sep 11:45:45.167 # Server started, Redis version 2.8.17
+[1080] 28 Sep 11:45:45.167 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1080] 28 Sep 11:45:45.168 * The server is now ready to accept connections on port 11000
+[1080 | signal handler] (1601293603) Received SIGTERM scheduling shutdown...
+[1080] 28 Sep 11:46:43.987 # User requested shutdown...
+[1080] 28 Sep 11:46:43.987 # Redis is now ready to exit, bye bye...
+[1096] 28 Sep 11:46:58.461 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1096
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1096] 28 Sep 11:46:58.466 # Server started, Redis version 2.8.17
+[1096] 28 Sep 11:46:58.466 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1096] 28 Sep 11:46:58.471 * The server is now ready to accept connections on port 11000
+[1096 | signal handler] (1601293703) Received SIGTERM scheduling shutdown...
+[1096] 28 Sep 11:48:24.035 # User requested shutdown...
+[1096] 28 Sep 11:48:24.035 # Redis is now ready to exit, bye bye...
+[1093] 28 Sep 11:48:39.538 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1093
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1093] 28 Sep 11:48:39.539 # Server started, Redis version 2.8.17
+[1093] 28 Sep 11:48:39.539 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1093] 28 Sep 11:48:39.546 * The server is now ready to accept connections on port 11000
+[1093 | signal handler] (1601293874) Received SIGTERM scheduling shutdown...
+[1093] 28 Sep 11:51:14.372 # User requested shutdown...
+[1093] 28 Sep 11:51:14.372 # Redis is now ready to exit, bye bye...
+[1086] 28 Sep 11:51:29.414 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 1086
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[1086] 28 Sep 11:51:29.415 # Server started, Redis version 2.8.17
+[1086] 28 Sep 11:51:29.415 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[1086] 28 Sep 11:51:29.416 * The server is now ready to accept connections on port 11000
+[1086 | signal handler] (1601294035) Received SIGTERM scheduling shutdown...
+[1086] 28 Sep 11:53:55.235 # User requested shutdown...
+[1086] 28 Sep 11:53:55.235 # Redis is now ready to exit, bye bye...
+[999] 28 Sep 11:54:10.401 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 999
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[999] 28 Sep 11:54:10.406 # Server started, Redis version 2.8.17
+[999] 28 Sep 11:54:10.406 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[999] 28 Sep 11:54:10.408 * The server is now ready to accept connections on port 11000
+[999 | signal handler] (1601294486) Received SIGTERM scheduling shutdown...
+[999] 28 Sep 12:01:26.683 # User requested shutdown...
+[999] 28 Sep 12:01:26.683 # Redis is now ready to exit, bye bye...
+[2599] 28 Sep 12:01:28.017 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 2599
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[2599] 28 Sep 12:01:28.053 # Server started, Redis version 2.8.17
+[2599] 28 Sep 12:01:28.053 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[2599] 28 Sep 12:01:28.053 * The server is now ready to accept connections on port 11000
+[2599 | signal handler] (1601294679) Received SIGTERM scheduling shutdown...
+[2599] 28 Sep 12:04:39.121 # User requested shutdown...
+[2599] 28 Sep 12:04:39.121 # Redis is now ready to exit, bye bye...
+[3339] 28 Sep 12:04:40.445 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 3339
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[3339] 28 Sep 12:04:40.481 # Server started, Redis version 2.8.17
+[3339] 28 Sep 12:04:40.481 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[3339] 28 Sep 12:04:40.482 * The server is now ready to accept connections on port 11000
+[3339 | signal handler] (1601294714) Received SIGTERM scheduling shutdown...
+[3339] 28 Sep 12:05:14.416 # User requested shutdown...
+[3339] 28 Sep 12:05:14.416 # Redis is now ready to exit, bye bye...
+[3473] 28 Sep 12:05:15.741 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 3473
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[3473] 28 Sep 12:05:15.770 # Server started, Redis version 2.8.17
+[3473] 28 Sep 12:05:15.770 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[3473] 28 Sep 12:05:15.770 * The server is now ready to accept connections on port 11000
+[3473 | signal handler] (1601295079) Received SIGTERM scheduling shutdown...
+[3473] 28 Sep 12:11:20.025 # User requested shutdown...
+[3473] 28 Sep 12:11:20.025 # Redis is now ready to exit, bye bye...
+[4816] 28 Sep 12:11:21.341 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 4816
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[4816] 28 Sep 12:11:21.378 # Server started, Redis version 2.8.17
+[4816] 28 Sep 12:11:21.378 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[4816] 28 Sep 12:11:21.378 * The server is now ready to accept connections on port 11000
+[4816 | signal handler] (1601295197) Received SIGTERM scheduling shutdown...
+[4816] 28 Sep 12:13:17.881 # User requested shutdown...
+[4816] 28 Sep 12:13:17.881 # Redis is now ready to exit, bye bye...
+[5555] 28 Sep 12:13:19.209 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 5555
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[5555] 28 Sep 12:13:19.237 # Server started, Redis version 2.8.17
+[5555] 28 Sep 12:13:19.237 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[5555] 28 Sep 12:13:19.238 * The server is now ready to accept connections on port 11000
+[5555 | signal handler] (1601295236) Received SIGTERM scheduling shutdown...
+[5555] 28 Sep 12:13:56.085 # User requested shutdown...
+[5555] 28 Sep 12:13:56.085 # Redis is now ready to exit, bye bye...
+[5689] 28 Sep 12:13:57.409 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 5689
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[5689] 28 Sep 12:13:57.409 # Server started, Redis version 2.8.17
+[5689] 28 Sep 12:13:57.441 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[5689] 28 Sep 12:13:57.441 * The server is now ready to accept connections on port 11000
+[5689 | signal handler] (1601295276) Received SIGTERM scheduling shutdown...
+[5689] 28 Sep 12:14:36.690 # User requested shutdown...
+[5689] 28 Sep 12:14:36.691 # Redis is now ready to exit, bye bye...
+[5821] 28 Sep 12:14:38.021 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 5821
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[5821] 28 Sep 12:14:38.050 # Server started, Redis version 2.8.17
+[5821] 28 Sep 12:14:38.050 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[5821] 28 Sep 12:14:38.050 * The server is now ready to accept connections on port 11000
+[5821 | signal handler] (1601295399) Received SIGTERM scheduling shutdown...
+[5821] 28 Sep 12:16:39.397 # User requested shutdown...
+[5821] 28 Sep 12:16:39.397 # Redis is now ready to exit, bye bye...
+[6555] 28 Sep 12:16:40.709 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 6555
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[6555] 28 Sep 12:16:40.740 # Server started, Redis version 2.8.17
+[6555] 28 Sep 12:16:40.740 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[6555] 28 Sep 12:16:40.740 * The server is now ready to accept connections on port 11000
+[6555 | signal handler] (1601295414) Received SIGTERM scheduling shutdown...
+[6555] 28 Sep 12:16:54.776 # User requested shutdown...
+[6555] 28 Sep 12:16:54.776 # Redis is now ready to exit, bye bye...
+[6688] 28 Sep 12:16:56.118 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 6688
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[6688] 28 Sep 12:16:56.119 # Server started, Redis version 2.8.17
+[6688] 28 Sep 12:16:56.119 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[6688] 28 Sep 12:16:56.120 * The server is now ready to accept connections on port 11000
+[6688 | signal handler] (1601295508) Received SIGTERM scheduling shutdown...
+[6688] 28 Sep 12:18:28.605 # User requested shutdown...
+[6688] 28 Sep 12:18:28.605 # Redis is now ready to exit, bye bye...
+[7434] 28 Sep 12:18:29.929 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 7434
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[7434] 28 Sep 12:18:29.962 # Server started, Redis version 2.8.17
+[7434] 28 Sep 12:18:29.962 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[7434] 28 Sep 12:18:29.962 * The server is now ready to accept connections on port 11000
+[7434 | signal handler] (1601295696) Received SIGTERM scheduling shutdown...
+[7434] 28 Sep 12:21:36.953 # User requested shutdown...
+[7434] 28 Sep 12:21:36.953 # Redis is now ready to exit, bye bye...
+[8175] 28 Sep 12:21:38.301 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 8175
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[8175] 28 Sep 12:21:38.302 # Server started, Redis version 2.8.17
+[8175] 28 Sep 12:21:38.302 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[8175] 28 Sep 12:21:38.302 * The server is now ready to accept connections on port 11000
+[8175 | signal handler] (1601295700) Received SIGTERM scheduling shutdown...
+[8175] 28 Sep 12:21:40.614 # User requested shutdown...
+[8175] 28 Sep 12:21:40.614 # Redis is now ready to exit, bye bye...
+[8274] 28 Sep 12:21:41.701 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 8274
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[8274] 28 Sep 12:21:41.733 # Server started, Redis version 2.8.17
+[8274] 28 Sep 12:21:41.733 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[8274] 28 Sep 12:21:41.733 * The server is now ready to accept connections on port 11000
+[8274 | signal handler] (1601295727) Received SIGTERM scheduling shutdown...
+[8274] 28 Sep 12:22:07.952 # User requested shutdown...
+[8274] 28 Sep 12:22:07.952 # Redis is now ready to exit, bye bye...
+[8407] 28 Sep 12:22:09.256 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 8407
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[8407] 28 Sep 12:22:09.256 # Server started, Redis version 2.8.17
+[8407] 28 Sep 12:22:09.256 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[8407] 28 Sep 12:22:09.256 * The server is now ready to accept connections on port 11000
+[8407 | signal handler] (1601295758) Received SIGTERM scheduling shutdown...
+[8407] 28 Sep 12:22:38.347 # User requested shutdown...
+[8407] 28 Sep 12:22:38.347 # Redis is now ready to exit, bye bye...
+[8539] 28 Sep 12:22:39.649 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 8539
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[8539] 28 Sep 12:22:39.681 # Server started, Redis version 2.8.17
+[8539] 28 Sep 12:22:39.681 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[8539] 28 Sep 12:22:39.681 * The server is now ready to accept connections on port 11000
+[8539 | signal handler] (1601295856) Received SIGTERM scheduling shutdown...
+[8539] 28 Sep 12:24:16.852 # User requested shutdown...
+[8539] 28 Sep 12:24:16.852 # Redis is now ready to exit, bye bye...
+[9261] 28 Sep 12:24:18.157 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 9261
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[9261] 28 Sep 12:24:18.189 # Server started, Redis version 2.8.17
+[9261] 28 Sep 12:24:18.190 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[9261] 28 Sep 12:24:18.190 * The server is now ready to accept connections on port 11000
+[9261 | signal handler] (1601295923) Received SIGTERM scheduling shutdown...
+[9261] 28 Sep 12:25:23.693 # User requested shutdown...
+[9261] 28 Sep 12:25:23.693 # Redis is now ready to exit, bye bye...
+[9401] 28 Sep 12:25:25.069 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 9401
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[9401] 28 Sep 12:25:25.098 # Server started, Redis version 2.8.17
+[9401] 28 Sep 12:25:25.098 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[9401] 28 Sep 12:25:25.098 * The server is now ready to accept connections on port 11000
+[9401 | signal handler] (1601296176) Received SIGTERM scheduling shutdown...
+[9401] 28 Sep 12:29:36.601 # User requested shutdown...
+[9401] 28 Sep 12:29:36.601 # Redis is now ready to exit, bye bye...
+[10146] 28 Sep 12:29:37.978 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 10146
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[10146] 28 Sep 12:29:37.979 # Server started, Redis version 2.8.17
+[10146] 28 Sep 12:29:37.979 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[10146] 28 Sep 12:29:37.979 * The server is now ready to accept connections on port 11000
+[10146 | signal handler] (1601296470) Received SIGTERM scheduling shutdown...
+[10146] 28 Sep 12:34:30.881 # User requested shutdown...
+[10146] 28 Sep 12:34:30.881 # Redis is now ready to exit, bye bye...
+[11467] 28 Sep 12:34:32.201 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 11467
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[11467] 28 Sep 12:34:32.238 # Server started, Redis version 2.8.17
+[11467] 28 Sep 12:34:32.238 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[11467] 28 Sep 12:34:32.238 * The server is now ready to accept connections on port 11000
+[11467 | signal handler] (1601296660) Received SIGTERM scheduling shutdown...
+[11467] 28 Sep 12:37:40.243 # User requested shutdown...
+[11467] 28 Sep 12:37:40.243 # Redis is now ready to exit, bye bye...
+[12198] 28 Sep 12:37:41.541 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 12198
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[12198] 28 Sep 12:37:41.585 # Server started, Redis version 2.8.17
+[12198] 28 Sep 12:37:41.585 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[12198] 28 Sep 12:37:41.585 * The server is now ready to accept connections on port 11000
+[12198 | signal handler] (1601296676) Received SIGTERM scheduling shutdown...
+[12198] 28 Sep 12:37:56.269 # User requested shutdown...
+[12198] 28 Sep 12:37:56.269 # Redis is now ready to exit, bye bye...
+[12330] 28 Sep 12:37:57.577 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 12330
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[12330] 28 Sep 12:37:57.609 # Server started, Redis version 2.8.17
+[12330] 28 Sep 12:37:57.609 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[12330] 28 Sep 12:37:57.609 * The server is now ready to accept connections on port 11000
+[12330 | signal handler] (1601296708) Received SIGTERM scheduling shutdown...
+[12330] 28 Sep 12:38:28.843 # User requested shutdown...
+[12330] 28 Sep 12:38:28.843 # Redis is now ready to exit, bye bye...
+[12467] 28 Sep 12:38:30.145 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 12467
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[12467] 28 Sep 12:38:30.180 # Server started, Redis version 2.8.17
+[12467] 28 Sep 12:38:30.180 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[12467] 28 Sep 12:38:30.180 * The server is now ready to accept connections on port 11000
+[12467 | signal handler] (1601296722) Received SIGTERM scheduling shutdown...
+[12467] 28 Sep 12:38:42.702 # User requested shutdown...
+[12467] 28 Sep 12:38:42.702 # Redis is now ready to exit, bye bye...
+[12599] 28 Sep 12:38:44.013 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 12599
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[12599] 28 Sep 12:38:44.045 # Server started, Redis version 2.8.17
+[12599] 28 Sep 12:38:44.046 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[12599] 28 Sep 12:38:44.046 * The server is now ready to accept connections on port 11000
+[12599 | signal handler] (1601296790) Received SIGTERM scheduling shutdown...
+[12599] 28 Sep 12:39:50.152 # User requested shutdown...
+[12599] 28 Sep 12:39:50.152 # Redis is now ready to exit, bye bye...
+[13315] 28 Sep 12:39:51.457 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 13315
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[13315] 28 Sep 12:39:51.490 # Server started, Redis version 2.8.17
+[13315] 28 Sep 12:39:51.490 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[13315] 28 Sep 12:39:51.490 * The server is now ready to accept connections on port 11000
+[13315 | signal handler] (1601296849) Received SIGTERM scheduling shutdown...
+[13315] 28 Sep 12:40:49.113 # User requested shutdown...
+[13315] 28 Sep 12:40:49.113 # Redis is now ready to exit, bye bye...
+[13448] 28 Sep 12:40:50.421 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 13448
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[13448] 28 Sep 12:40:50.454 # Server started, Redis version 2.8.17
+[13448] 28 Sep 12:40:50.454 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[13448] 28 Sep 12:40:50.454 * The server is now ready to accept connections on port 11000
+[13448 | signal handler] (1601296976) Received SIGTERM scheduling shutdown...
+[13448] 28 Sep 12:42:57.014 # User requested shutdown...
+[13448] 28 Sep 12:42:57.014 # Redis is now ready to exit, bye bye...
+[14175] 28 Sep 12:42:58.342 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 14175
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[14175] 28 Sep 12:42:58.343 # Server started, Redis version 2.8.17
+[14175] 28 Sep 12:42:58.343 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[14175] 28 Sep 12:42:58.343 * The server is now ready to accept connections on port 11000
+[14175 | signal handler] (1601297730) Received SIGTERM scheduling shutdown...
+[14175] 28 Sep 12:55:30.650 # User requested shutdown...
+[14175] 28 Sep 12:55:30.650 # Redis is now ready to exit, bye bye...
+[16720] 28 Sep 12:55:32.005 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 16720
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[16720] 28 Sep 12:55:32.033 # Server started, Redis version 2.8.17
+[16720] 28 Sep 12:55:32.033 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[16720] 28 Sep 12:55:32.033 * The server is now ready to accept connections on port 11000
+[16720 | signal handler] (1601297812) Received SIGTERM scheduling shutdown...
+[16720] 28 Sep 12:56:52.177 # User requested shutdown...
+[16720] 28 Sep 12:56:52.177 # Redis is now ready to exit, bye bye...
+[16859] 28 Sep 12:56:53.489 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 16859
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[16859] 28 Sep 12:56:53.526 # Server started, Redis version 2.8.17
+[16859] 28 Sep 12:56:53.526 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[16859] 28 Sep 12:56:53.526 * The server is now ready to accept connections on port 11000
+[16859 | signal handler] (1601298269) Received SIGTERM scheduling shutdown...
+[16859] 28 Sep 13:04:29.266 # User requested shutdown...
+[16859] 28 Sep 13:04:29.266 # Redis is now ready to exit, bye bye...
+[18774] 28 Sep 13:04:30.589 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 18774
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[18774] 28 Sep 13:04:30.621 # Server started, Redis version 2.8.17
+[18774] 28 Sep 13:04:30.622 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[18774] 28 Sep 13:04:30.622 * The server is now ready to accept connections on port 11000
+[18774 | signal handler] (1601298360) Received SIGTERM scheduling shutdown...
+[18774] 28 Sep 13:06:00.769 # User requested shutdown...
+[18774] 28 Sep 13:06:00.769 # Redis is now ready to exit, bye bye...
+[19190] 28 Sep 13:06:02.085 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 19190
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[19190] 28 Sep 13:06:02.118 # Server started, Redis version 2.8.17
+[19190] 28 Sep 13:06:02.118 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[19190] 28 Sep 13:06:02.118 * The server is now ready to accept connections on port 11000
+[19190 | signal handler] (1601298486) Received SIGTERM scheduling shutdown...
+[19190] 28 Sep 13:08:06.972 # User requested shutdown...
+[19190] 28 Sep 13:08:06.972 # Redis is now ready to exit, bye bye...
+[19656] 28 Sep 13:08:08.382 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 19656
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[19656] 28 Sep 13:08:08.382 # Server started, Redis version 2.8.17
+[19656] 28 Sep 13:08:08.382 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[19656] 28 Sep 13:08:08.382 * The server is now ready to accept connections on port 11000
+[19656 | signal handler] (1601298574) Received SIGTERM scheduling shutdown...
+[19656] 28 Sep 13:09:34.261 # User requested shutdown...
+[19656] 28 Sep 13:09:34.261 # Redis is now ready to exit, bye bye...
+[20398] 28 Sep 13:09:35.614 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 20398
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[20398] 28 Sep 13:09:35.614 # Server started, Redis version 2.8.17
+[20398] 28 Sep 13:09:35.615 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[20398] 28 Sep 13:09:35.615 * The server is now ready to accept connections on port 11000
+[20398 | signal handler] (1601298597) Received SIGTERM scheduling shutdown...
+[20398] 28 Sep 13:09:57.457 # User requested shutdown...
+[20398] 28 Sep 13:09:57.457 # Redis is now ready to exit, bye bye...
+[20542] 28 Sep 13:09:58.761 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 20542
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[20542] 28 Sep 13:09:58.797 # Server started, Redis version 2.8.17
+[20542] 28 Sep 13:09:58.797 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[20542] 28 Sep 13:09:58.797 * The server is now ready to accept connections on port 11000
+[20542 | signal handler] (1601298606) Received SIGTERM scheduling shutdown...
+[20542] 28 Sep 13:10:06.877 # User requested shutdown...
+[20542] 28 Sep 13:10:06.877 # Redis is now ready to exit, bye bye...
+[20674] 28 Sep 13:10:08.189 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 20674
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[20674] 28 Sep 13:10:08.222 # Server started, Redis version 2.8.17
+[20674] 28 Sep 13:10:08.222 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[20674] 28 Sep 13:10:08.222 * The server is now ready to accept connections on port 11000
+[20674 | signal handler] (1601298636) Received SIGTERM scheduling shutdown...
+[20674] 28 Sep 13:10:36.272 # User requested shutdown...
+[20674] 28 Sep 13:10:36.272 # Redis is now ready to exit, bye bye...
+[20818] 28 Sep 13:10:37.628 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 20818
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[20818] 28 Sep 13:10:37.629 # Server started, Redis version 2.8.17
+[20818] 28 Sep 13:10:37.629 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[20818] 28 Sep 13:10:37.629 * The server is now ready to accept connections on port 11000
+[20818 | signal handler] (1601298668) Received SIGTERM scheduling shutdown...
+[20818] 28 Sep 13:11:08.189 # User requested shutdown...
+[20818] 28 Sep 13:11:08.189 # Redis is now ready to exit, bye bye...
+[20952] 28 Sep 13:11:09.501 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 20952
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[20952] 28 Sep 13:11:09.534 # Server started, Redis version 2.8.17
+[20952] 28 Sep 13:11:09.534 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[20952] 28 Sep 13:11:09.534 * The server is now ready to accept connections on port 11000
+[20952 | signal handler] (1601298710) Received SIGTERM scheduling shutdown...
+[20952] 28 Sep 13:11:50.214 # User requested shutdown...
+[20952] 28 Sep 13:11:50.214 # Redis is now ready to exit, bye bye...
+[21086] 28 Sep 13:11:51.581 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 21086
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[21086] 28 Sep 13:11:51.582 # Server started, Redis version 2.8.17
+[21086] 28 Sep 13:11:51.582 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[21086] 28 Sep 13:11:51.582 * The server is now ready to accept connections on port 11000
+[21086 | signal handler] (1601298725) Received SIGTERM scheduling shutdown...
+[21086] 28 Sep 13:12:05.808 # User requested shutdown...
+[21086] 28 Sep 13:12:05.808 # Redis is now ready to exit, bye bye...
+[21800] 28 Sep 13:12:07.128 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 21800
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[21800] 28 Sep 13:12:07.128 # Server started, Redis version 2.8.17
+[21800] 28 Sep 13:12:07.128 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[21800] 28 Sep 13:12:07.128 * The server is now ready to accept connections on port 11000
+[21800 | signal handler] (1601298759) Received SIGTERM scheduling shutdown...
+[21800] 28 Sep 13:12:39.928 # User requested shutdown...
+[21800] 28 Sep 13:12:39.928 # Redis is now ready to exit, bye bye...
+[21932] 28 Sep 13:12:41.245 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 21932
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[21932] 28 Sep 13:12:41.278 # Server started, Redis version 2.8.17
+[21932] 28 Sep 13:12:41.278 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[21932] 28 Sep 13:12:41.278 * The server is now ready to accept connections on port 11000
+[21932 | signal handler] (1601298806) Received SIGTERM scheduling shutdown...
+[21932] 28 Sep 13:13:26.373 # User requested shutdown...
+[21932] 28 Sep 13:13:26.374 # Redis is now ready to exit, bye bye...
+[22064] 28 Sep 13:13:27.725 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 22064
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[22064] 28 Sep 13:13:27.726 # Server started, Redis version 2.8.17
+[22064] 28 Sep 13:13:27.726 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[22064] 28 Sep 13:13:27.726 * The server is now ready to accept connections on port 11000
+[22064 | signal handler] (1601298841) Received SIGTERM scheduling shutdown...
+[22064] 28 Sep 13:14:01.890 # User requested shutdown...
+[22064] 28 Sep 13:14:01.890 # Redis is now ready to exit, bye bye...
+[22204] 28 Sep 13:14:03.217 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 22204
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[22204] 28 Sep 13:14:03.249 # Server started, Redis version 2.8.17
+[22204] 28 Sep 13:14:03.249 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[22204] 28 Sep 13:14:03.249 * The server is now ready to accept connections on port 11000
+[22204 | signal handler] (1601298946) Received SIGTERM scheduling shutdown...
+[22204] 28 Sep 13:15:46.241 # User requested shutdown...
+[22204] 28 Sep 13:15:46.241 # Redis is now ready to exit, bye bye...
+[22927] 28 Sep 13:15:47.581 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 22927
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[22927] 28 Sep 13:15:47.610 # Server started, Redis version 2.8.17
+[22927] 28 Sep 13:15:47.610 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[22927] 28 Sep 13:15:47.610 * The server is now ready to accept connections on port 11000
+[22927 | signal handler] (1601299427) Received SIGTERM scheduling shutdown...
+[22927] 28 Sep 13:23:47.993 # User requested shutdown...
+[22927] 28 Sep 13:23:47.993 # Redis is now ready to exit, bye bye...
+[24308] 28 Sep 13:23:49.329 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 24308
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[24308] 28 Sep 13:23:49.362 # Server started, Redis version 2.8.17
+[24308] 28 Sep 13:23:49.362 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[24308] 28 Sep 13:23:49.362 * The server is now ready to accept connections on port 11000
+[24308 | signal handler] (1601299459) Received SIGTERM scheduling shutdown...
+[24308] 28 Sep 13:24:19.119 # User requested shutdown...
+[24308] 28 Sep 13:24:19.119 # Redis is now ready to exit, bye bye...
+[25029] 28 Sep 13:24:20.457 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 25029
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[25029] 28 Sep 13:24:20.486 # Server started, Redis version 2.8.17
+[25029] 28 Sep 13:24:20.486 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[25029] 28 Sep 13:24:20.486 * The server is now ready to accept connections on port 11000
+[25029 | signal handler] (1601299716) Received SIGTERM scheduling shutdown...
+[25029] 28 Sep 13:28:36.775 # User requested shutdown...
+[25029] 28 Sep 13:28:36.775 # Redis is now ready to exit, bye bye...
+[25796] 28 Sep 13:28:38.093 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 25796
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[25796] 28 Sep 13:28:38.126 # Server started, Redis version 2.8.17
+[25796] 28 Sep 13:28:38.126 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[25796] 28 Sep 13:28:38.126 * The server is now ready to accept connections on port 11000
+[25796 | signal handler] (1601299885) Received SIGTERM scheduling shutdown...
+[25796] 28 Sep 13:31:25.179 # User requested shutdown...
+[25796] 28 Sep 13:31:25.179 # Redis is now ready to exit, bye bye...
+[26533] 28 Sep 13:31:26.497 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 26533
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[26533] 28 Sep 13:31:26.530 # Server started, Redis version 2.8.17
+[26533] 28 Sep 13:31:26.530 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[26533] 28 Sep 13:31:26.530 * The server is now ready to accept connections on port 11000
+[26533 | signal handler] (1601299917) Received SIGTERM scheduling shutdown...
+[26533] 28 Sep 13:31:57.863 # User requested shutdown...
+[26533] 28 Sep 13:31:57.863 # Redis is now ready to exit, bye bye...
+[26664] 28 Sep 13:31:59.161 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+                _._                                                  
+           _.-``__ ''-._                                             
+      _.-``    `.  `_.  ''-._           Redis 2.8.17 (00000000/0) 64 bit
+  .-`` .-```.  ```\/    _.,_ ''-._                                   
+ (    '      ,       .-`  | `,    )     Running in stand alone mode
+ |`-._`-...-` __...-.``-._|'` _.-'|     Port: 11000
+ |    `-._   `._    /     _.-'    |     PID: 26664
+  `-._    `-._  `-./  _.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |           http://redis.io        
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+ |`-._`-._    `-.__.-'    _.-'_.-'|                                  
+ |    `-._`-._        _.-'_.-'    |                                  
+  `-._    `-._`-.__.-'_.-'    _.-'                                   
+      `-._    `-.__.-'    _.-'                                       
+          `-._        _.-'                                           
+              `-.__.-'                                               
+
+[26664] 28 Sep 13:31:59.161 # Server started, Redis version 2.8.17
+[26664] 28 Sep 13:31:59.161 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+[26664] 28 Sep 13:31:59.161 * The server is now ready to accept connections on port 11000
